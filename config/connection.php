@@ -1,8 +1,8 @@
 <?php
-    define("SERVER","sql108.infinityfree.com");
-    define("DATABASE","if0_42747848_rentacar");
-    define("USERNAME","if0_42747848");
-    define("PASSWORD","0K2ufGd5W1");
+    define("SERVER","");
+    define("DATABASE","");
+    define("USERNAME","");
+    define("PASSWORD","");
     define("PORT", "3306");
 
     try {
