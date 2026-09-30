@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /config/
+Disallow: /includes/
+
+Sitemap: https://rentacar.gt.tc//sitemap.xml
